@@ -1,0 +1,11 @@
+{
+  "name": "onslaught",
+  "version": "0.0.1",
+  "description": "A semi-automated generic battle simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Sivek <nanowizardry@gmail.com>",
+  "license": "ISC"
+}
